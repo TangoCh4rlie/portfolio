@@ -13,16 +13,9 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
-      colors: {
-        "white-c": "#EDF2F7",
-        "github-b": "#1A202C",
-        "github-v": "#238636",
-        "gray-t": "#808080",
-      }
     },
     fontFamily: {
       ubuntu: ["Ubuntu", "sans-serif"],
-      syne: ["Syne", "sans-serif"],
     }
   },
   plugins: [],
