@@ -2,7 +2,7 @@
 
 import ContactFrom from "@/components/contact";
 import HeaderCustom from "@/components/header";
-import ProjectSlider from "@/components/slider";
+import ProjectSlider from "@/components/slider/slider";
 
 
 export default function Home() {
