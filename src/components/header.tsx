@@ -100,7 +100,7 @@ export const HeaderCustom = () => {
             />
             <div id="particles-js" className="z-10 flex flex-col items-center">
                 <p className="text-gray-t">19 ans - développeur</p>
-                <h1 className="text-white-c font-ubuntu text-9xl my-6">
+                <h1 className="text-white-c font-syne text-9xl my-6">
                     <Typewriter
                         words={["TangoCh4rlie", "Elouan Reymond"]}
                         loop={true}

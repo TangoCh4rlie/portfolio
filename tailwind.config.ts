@@ -22,6 +22,7 @@ const config: Config = {
     },
     fontFamily: {
       ubuntu: ["Ubuntu", "sans-serif"],
+      syne: ["Syne", "sans-serif"],
     }
   },
   plugins: [],
